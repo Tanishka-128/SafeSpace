@@ -1,0 +1,8 @@
+{
+  "name": "SafeSpace1",
+  "description": "A modular mental health support platform with anonymous student tools and professional counsellor dashboards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
